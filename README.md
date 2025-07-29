@@ -102,6 +102,6 @@ Framer Motion — React animation library
 Recharts or Chart.js — Data visualization tools
 
 ## 🌐 Live Demo
-  Link :
+  Link : https://ai-powered-analytics-dashboard-eight.vercel.app/
 
 
